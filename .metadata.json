@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "FielDHub",
+    "oncran": true
+  }
+]
